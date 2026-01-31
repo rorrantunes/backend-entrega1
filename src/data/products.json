@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e2d4834c-f7c0-4d5c-9c16-e78980277c23",
+    "title": "Vestido Largo Floral",
+    "description": "Vestido de verano, tela liviana",
+    "code": "VEST001",
+    "price": 32000,
+    "status": true,
+    "stock": 8,
+    "category": "Ropa",
+    "thumbnails": [
+      "vestido1.jpg",
+      "vestido2.jpg"
+    ]
+  }
+]
